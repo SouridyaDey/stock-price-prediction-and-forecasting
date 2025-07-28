@@ -41,4 +41,4 @@ After comparing all models based on **Root Mean Squared Error (RMSE)** and **Mea
 ### 5. **Deployment**
 - Flask web app developed to display forecasted prices.
 - Model and scaler serialized using `pickle`.
-- Deployed on [Render](https://render.com) using `gunicorn` as production WSGI server.
+-  Tried to Deploy on Render but faced too many version mismatches.
