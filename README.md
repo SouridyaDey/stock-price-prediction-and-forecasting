@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction and Forecasting using Stacked LSTM
+# 📈 Stock Price Prediction and Forecasting
 
 This project aims to predict the **next day's closing price** of Apple Inc. (AAPL) stock using advanced time series forecasting techniques. After thorough exploratory data analysis (EDA) and experimentation with multiple statistical and machine learning models, a **Stacked LSTM (Long Short-Term Memory)** neural network was selected for final deployment due to its superior performance in capturing temporal dependencies.
 
